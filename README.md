@@ -1,1 +1,2 @@
-How to apply for samahan sysdev
+Bantay Ani - Project Manager
+Cara - COO
