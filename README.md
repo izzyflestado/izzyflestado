@@ -1,2 +1,2 @@
-Bantay Ani - Project Manager
-Cara - COO
+Cara - COO </br> Bantay Ani - Project Manager
+
