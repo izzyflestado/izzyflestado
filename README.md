@@ -1,1 +1,1 @@
-i liek building
+i like building
