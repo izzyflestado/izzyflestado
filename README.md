@@ -3,11 +3,11 @@
     <tr>
       <td valign="middle">
         <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com?user=izzyflestado&theme=graywhite&hide_border=true&hide_current_streak=true&hide_longest_streak=true&card_width=300" width="300" alt="GitHub Streak" />
+          <img src="https://streak-stats.demolab.com?user=izzyflestado&theme=graywhite&hide_border=true&hide_current_streak=true&hide_longest_streak=true&card_width=225" width="225" alt="GitHub Streak" />
         </a>
         <br/>
         <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com?user=izzyflestado&theme=graywhite&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&card_width=300" width="300" alt="GitHub Streak Details" />
+          <img src="https://streak-stats.demolab.com?user=izzyflestado&theme=graywhite&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&card_width=225" width="225" alt="GitHub Streak Details" />
         </a>
       </td>
       <td valign="middle">
