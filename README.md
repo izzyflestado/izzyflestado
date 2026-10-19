@@ -4,4 +4,12 @@
   </a>
 </div>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=izzyflestado&layout=donut&langs_count=4&theme=graywhite)](https://github-stats-extended.vercel.app/api/top-langs?username=izzyflestado&layout=donut&langs_count=4&theme=graywhite)
+<br>
+
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=izzyflestado&langs_count=4&theme=graywhite">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=izzyflestado&langs_count=4&theme=graywhite"
+    style="margin-left: 48px;"
+    alt="Top Languages"
+  />
+</a>
