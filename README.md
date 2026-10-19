@@ -10,7 +10,7 @@
       </a>
     </td>
     <td valign="top">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=izzyflestado&langs_count=4&theme=graywhite&card_width=500" width="500" height="430" alt="Top Languages" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=izzyflestado&langs_count=6&theme=graywhite&card_width=500" width="500" alt="Top Languages" />
     </td>
   </tr>
 </table>
