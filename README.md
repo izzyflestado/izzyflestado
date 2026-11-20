@@ -1,5 +1,3 @@
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=izzyflestado&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
-
 <div align="center">
   <table border="0">
     <tr>
